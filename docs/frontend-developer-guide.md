@@ -197,7 +197,7 @@ Now you should see your newly created container in `./containers/WordCountPage`
 We now need to import our components and place them in our container:
 
 ```js
-//containers/WordCountPage.js
+//.containers/WordCountPage.js
 import React, { PureComponent } from 'react';
 import { basePageWrap } from '../BasePage';
 import s from './WordCountPage.module.css';
