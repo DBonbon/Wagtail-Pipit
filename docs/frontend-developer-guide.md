@@ -278,6 +278,7 @@ export default {
 When styling the container-level, we mostly do the layout. Add some margins:
 
 ```css
+//.containers/WordCountPage.module.css
 .WordCountPage {
     max-width: 600px;
 }
